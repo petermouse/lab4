@@ -1,0 +1,19 @@
+A.
+00000000 b .bss
+00000000 d .data
+00000000 r .rdata
+00000000 t .text
+00000000 T __Z7averagePdRd   //double average (double* n1,double& n2)
+00000019 T __Z7averageif     //int average(int n1,float n2)
+         U ___main
+00000048 T _main
+
+ans: function name & parameter type.
+
+B.
+1 4
+4 4
+4 4
+8 4
+
+ans: pointer use 4 bytes to store address value.
